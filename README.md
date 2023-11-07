@@ -1,5 +1,4 @@
 # Wine-review
-# Wine Reviews
 
 This dataset is about the reviews of wines from all over the world based on factors such as sommelier taste, grape variety, score, price... Through this [report](https://github.com/iamdkSang/20127214_20127612_Wine-Reviews/blob/main/20127214_20127612.ipynb) we can know where there is a lot of expensive wine, where there is a lot of cheap wine, the relationship between the price of wine and other factors such as wine price, taster's description or what type of grape is used the most to make good wine and so on.
 
